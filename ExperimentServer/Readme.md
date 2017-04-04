@@ -31,3 +31,5 @@ Once the above is done do the following
 - `cd <PATH TO EXPERIMENTSERVER>`
 - `mvn clean install`
 - `cp <PATH TO EXPERIMENTSERVER>/target/ExperimentServer.war <PATH TO TOMCAT WEBAPPS>`
+
+- your service is running at `http(s)://<HOST>:<PORT>/ExperimentServer/store/`
