@@ -1,4 +1,4 @@
-# This is a Sample experiment Server that receives a file from EEE
+# This is a *Sample* experiment Server that receives a file from EEE
 
 It is tested to runs on Tomcat successfully
 
